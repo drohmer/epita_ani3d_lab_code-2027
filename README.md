@@ -7,7 +7,7 @@ Source code for the lab sessions of the **EPITA Ani3D** course (3D Animation), y
 
 ## Download
 
-The code is self-contained: each scene directory embeds its own copy of the [CGP library](https://graphicscomputing.fr/cgp/documentation/) (version cgp-2027), no git submodule is needed.
+Each scene directory contains all the code needed to compile it, including the [CGP library](https://graphicscomputing.fr/cgp/documentation/) in its `cgp/` subdirectory.
 
 ```bash
 git clone https://github.com/drohmer/epita_ani3d_lab_code-2027.git
